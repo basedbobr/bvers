@@ -17,3 +17,13 @@
 | 1 | Regular Headphone | Common      |
 | 2 | Neon Headphone    | Legendary   |
 | 3 | Gold Headphone    | Ultra Rare  |
+
+## Earrings
+| # | Trait Name           | Rarity      |
+|---|----------------------|-------------|
+| 1 | BOBR Piercing        | Legendary   |
+| 2 | Heling Piercing      | Ultra Rare  |
+| 3 | Industrial Piercing  | Ultra Rare  |
+| 4 | Pin Piercing         | Ultra Rare  |
+| 5 | Pendant Piercing     | Ultra Rare  |
+| 6 | Ring Piercing        | Ultra Rare  |

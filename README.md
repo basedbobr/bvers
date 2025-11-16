@@ -3,6 +3,10 @@
 
 ![BVER Image](/misc/bvers.png)
 
+## 🏷️ Quick Links
+- 📜 [Rarities](https://github.com/basedbobr/bvers/blob/main/rarities/rarities.md)
+
+
 ## 🔗 Official Links
 | Platform | Link |
 |----------|------|
